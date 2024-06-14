@@ -1,13 +1,23 @@
-Bagherian, Maryam, Renaid B. Kim, Cheng Jiang, Maureen A. Sartor, Harm Derksen, and Kayvan Najarian. "Coupled matrix–matrix and coupled tensor–matrix completion methods for predicting drug–target interactions." Briefings in bioinformatics 22, no. 2 (2021): 2161-2171.
+# Paper: Coupled matrix–matrix and coupled tensor–matrix completion methods for predicting drug–target interactions
 
+**Authors:** Maryam Bagherian, Renaid B. Kim, Cheng Jiang, Maureen A. Sartor, Harm Derksen, Kayvan Najarian
 
-@article{bagherian2021coupled,
-  title={Coupled matrix--matrix and coupled tensor--matrix completion methods for predicting drug--target interactions},
-  author={Bagherian, Maryam and Kim, Renaid B and Jiang, Cheng and Sartor, Maureen A and Derksen, Harm and Najarian, Kayvan},
-  journal={Briefings in bioinformatics},
-  volume={22},
-  number={2},
-  pages={2161--2171},
-  year={2021},
-  publisher={Oxford University Press}
-}
+**Journal:** Briefings in Bioinformatics
+
+**Publication Year:** 2021
+
+**Volume:** 22
+
+**Issue:** 2
+
+**Pages:** 2161-2171
+
+## Summary
+
+This paper introduces coupled matrix–matrix and coupled tensor–matrix completion methods for predicting drug–target interactions. It provides insights into the use of computational methods for drug discovery and target identification.
+
+## How to Cite
+
+If you find this paper helpful in your research, please consider citing it:
+
+Bagherian, M., Kim, R.B., Jiang, C., Sartor, M.A., Derksen, H., Najarian, K. (2021). Coupled matrix–matrix and coupled tensor–matrix completion methods for predicting drug–target interactions. *Briefings in Bioinformatics*, 22(2), 2161-2171.
