@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Bagherian"
+  given-names: "Maryam"
+  orcid: "https://orcid.org/0000-0002-6923-154X"
+- family-names: "Kim"
+  given-names: "Renaid B."
+ - family-names: "Sartor,"
+  given-names: "Maureen A."
+- family-names: "Derksen,"
+  given-names: " Harm"
+- family-names: "Najarian,"
+  given-names: " Kayvan"
+title: "Coupled matrix–matrix and coupled tensor–matrix completion methods for predicting drug–target interactions"
+doi: 10.1093/bib/bbaa025
+Date: "2021"
+journal: "Briefings in bioinformatics 22, no. 2 (2021): 2161-2171"
+url: "https://academic.oup.com/bib/article/22/2/2161/5809565"
