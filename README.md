@@ -21,3 +21,9 @@ This paper introduces coupled matrix–matrix and coupled tensor–matrix comple
 If you find this paper helpful in your research, please consider citing it:
 
 Bagherian, M., Kim, R.B., Jiang, C., Sartor, M.A., Derksen, H., Najarian, K. (2021). Coupled matrix–matrix and coupled tensor–matrix completion methods for predicting drug–target interactions. *Briefings in Bioinformatics*, 22(2), 2161-2171.
+
+
+Bagherian, Maryam, Kayvan Najarian, and Harm Derksen. "Coupled matrix-matrix and coupled tensor-matrix completion methods for predicting drug-target interactions." U.S. Patent Application 17/204,836, filed August 4, 2022.
+
+
+
